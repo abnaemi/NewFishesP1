@@ -8,7 +8,7 @@ public class FirstNFP1 {
         boolean word3 = methodchecker(word, word2);
         System.out.println(word3);
     }
-
+//dasdsadsa
     public static boolean lenghtchecker(String word) {
         if (word.length() > 20) {
             return true;
