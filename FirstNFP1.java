@@ -1,7 +1,7 @@
 public class FirstNFP1 {
     public static void main(String[] args) {
 
-        boolean word = lenghtchecker("fsssssssssssssssssssss ");
+        boolean word = lenghtchecker("fsssssssheydieSonnescheintssssssssssssss ");
         System.out.println(word);
         boolean word2 = fancychecker("fancy ssssss  ");
         System.out.println(word2);
